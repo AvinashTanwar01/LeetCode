@@ -1,0 +1,588 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Funcrecrsum",
+            "request": "launch",
+            "mainClass": "Funcrecrsum",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "MatrixRotate90",
+            "request": "launch",
+            "mainClass": "MatrixRotate90",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "Stringbuffer",
+            "request": "launch",
+            "mainClass": "Stringbuffer",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "Stringbuilder",
+            "request": "launch",
+            "mainClass": "Stringbuilder",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "allDivisors",
+            "request": "launch",
+            "mainClass": "allDivisors",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "anagramornot",
+            "request": "launch",
+            "mainClass": "anagramornot",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "armStrong",
+            "request": "launch",
+            "mainClass": "armStrong",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "arrangesign",
+            "request": "launch",
+            "mainClass": "arrangesign",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "arraytolinked",
+            "request": "launch",
+            "mainClass": "arraytolinked",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "basichash",
+            "request": "launch",
+            "mainClass": "basichash",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "beauty",
+            "request": "launch",
+            "mainClass": "beauty",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "booquets",
+            "request": "launch",
+            "mainClass": "booquets",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "bubble",
+            "request": "launch",
+            "mainClass": "bubble",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "charHash",
+            "request": "launch",
+            "mainClass": "charHash",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "conatinerwater",
+            "request": "launch",
+            "mainClass": "conatinerwater",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "countDigits",
+            "request": "launch",
+            "mainClass": "countDigits",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "countingfreqofarray",
+            "request": "launch",
+            "mainClass": "countingfreqofarray",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "findDifference",
+            "request": "launch",
+            "mainClass": "findDifference",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "firstandlastocc",
+            "request": "launch",
+            "mainClass": "firstandlastocc",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "gcd",
+            "request": "launch",
+            "mainClass": "gcd",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "goodnumber",
+            "request": "launch",
+            "mainClass": "goodnumber",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "highestOcuuring",
+            "request": "launch",
+            "mainClass": "highestOcuuring",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "insertion",
+            "request": "launch",
+            "mainClass": "insertion",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "koko",
+            "request": "launch",
+            "mainClass": "koko",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "leaderarray",
+            "request": "launch",
+            "mainClass": "leaderarray",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "leftrota1",
+            "request": "launch",
+            "mainClass": "leftrota1",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "longcommonprefix",
+            "request": "launch",
+            "mainClass": "longcommonprefix",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "longestconse",
+            "request": "launch",
+            "mainClass": "longestconse",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "longestsubK",
+            "request": "launch",
+            "mainClass": "longestsubK",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "longestsubstringunique",
+            "request": "launch",
+            "mainClass": "longestsubstringunique",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "lowerbound",
+            "request": "launch",
+            "mainClass": "lowerbound",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "majorit3",
+            "request": "launch",
+            "mainClass": "majorit3",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "map",
+            "request": "launch",
+            "mainClass": "map",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "max1",
+            "request": "launch",
+            "mainClass": "max1",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "max2ele",
+            "request": "launch",
+            "mainClass": "max2ele",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "maxarraysum",
+            "request": "launch",
+            "mainClass": "maxarraysum",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "maxele",
+            "request": "launch",
+            "mainClass": "maxele",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "maxeleN2",
+            "request": "launch",
+            "mainClass": "maxeleN2",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "maxsub",
+            "request": "launch",
+            "mainClass": "maxsub",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "merge",
+            "request": "launch",
+            "mainClass": "merge",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "missing",
+            "request": "launch",
+            "mainClass": "missing",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "newkeyword",
+            "request": "launch",
+            "mainClass": "newkeyword",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "nonZero",
+            "request": "launch",
+            "mainClass": "nonZero",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "oddnumber",
+            "request": "launch",
+            "mainClass": "oddnumber",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "oops.basic",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "grrr",
+            "request": "launch",
+            "mainClass": "oops.pack.grrr",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "message",
+            "request": "launch",
+            "mainClass": "oops.pack.message",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "oops.swap",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "permutation",
+            "request": "launch",
+            "mainClass": "permutation",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "pow",
+            "request": "launch",
+            "mainClass": "pow",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "primeNum",
+            "request": "launch",
+            "mainClass": "primeNum",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "queueusingarrat",
+            "request": "launch",
+            "mainClass": "queueusingarrat",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "random",
+            "request": "launch",
+            "mainClass": "random",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "recurAraayRev",
+            "request": "launch",
+            "mainClass": "recurAraayRev",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "recurFib",
+            "request": "launch",
+            "mainClass": "recurFib",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "recurPalinS",
+            "request": "launch",
+            "mainClass": "recurPalinS",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "recurSum1toN",
+            "request": "launch",
+            "mainClass": "recurSum1toN",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "recursiceInsertion",
+            "request": "launch",
+            "mainClass": "recursiceInsertion",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "recursion",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "recursion1toN",
+            "request": "launch",
+            "mainClass": "recursion1toN",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "recursionNto1",
+            "request": "launch",
+            "mainClass": "recursionNto1",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "recursiveBubble",
+            "request": "launch",
+            "mainClass": "recursiveBubble",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "removeDupli",
+            "request": "launch",
+            "mainClass": "removeDupli",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "reveline",
+            "request": "launch",
+            "mainClass": "reveline",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "reverseDigit",
+            "request": "launch",
+            "mainClass": "reverseDigit",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "rotateK",
+            "request": "launch",
+            "mainClass": "rotateK",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "rotateRK",
+            "request": "launch",
+            "mainClass": "rotateRK",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "rotatedornot",
+            "request": "launch",
+            "mainClass": "rotatedornot",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "selection",
+            "request": "launch",
+            "mainClass": "selection",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "setzeromatrix",
+            "request": "launch",
+            "mainClass": "setzeromatrix",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "singleNum",
+            "request": "launch",
+            "mainClass": "singleNum",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "sort102",
+            "request": "launch",
+            "mainClass": "sort102",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "sortArotated",
+            "request": "launch",
+            "mainClass": "sortArotated",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "sortedarray",
+            "request": "launch",
+            "mainClass": "sortedarray",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "stackusingarray",
+            "request": "launch",
+            "mainClass": "stackusingarray",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "stockBuyandSell",
+            "request": "launch",
+            "mainClass": "stockBuyandSell",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "stringtoint",
+            "request": "launch",
+            "mainClass": "stringtoint",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "tallsubtower",
+            "request": "launch",
+            "mainClass": "tallsubtower",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "threesum",
+            "request": "launch",
+            "mainClass": "threesum",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "twosum",
+            "request": "launch",
+            "mainClass": "twosum",
+            "projectName": "TakeYouForward_e5deb132"
+        },
+        {
+            "type": "java",
+            "name": "unionarray",
+            "request": "launch",
+            "mainClass": "unionarray",
+            "projectName": "TakeYouForward_e5deb132"
+        }
+    ]
+}

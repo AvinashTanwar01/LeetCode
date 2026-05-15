@@ -1,0 +1,15 @@
+stack overflow :- when the stacks memomory overflow due to multiples function getting on hold again and again due to recusrison and any other reasons 
+
+recusrion :- when an func call itself  and some conditions are met 
+
+hashing :- pre storing and fetching
+
+map stores all the value always in soted order.
+
+ArrayRotate= no matter how much step roattion hapens K=k%arr.length
+
+sum = n*(n+1)/2;
+xor= a^a=0 || 2^2^5^5=0;
+
+String is immutable and for same it have same refrence
+Whenever u write anything any data type at the end in output with help of toString it changes to string using printstream class

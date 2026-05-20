@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AvinashTanwar01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/0344-reverse-string) |
+| [0459-repeated-substring-pattern](https://github.com/AvinashTanwar01/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/AvinashTanwar01/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3597-partition-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/3597-partition-string) |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AvinashTanwar01/LeetCode/tree/master/0022-generate-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/AvinashTanwar01/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->

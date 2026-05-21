@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/AvinashTanwar01/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/AvinashTanwar01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/AvinashTanwar01/LeetCode/tree/master/0459-repeated-substring-pattern) |

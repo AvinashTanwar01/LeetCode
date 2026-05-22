@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AvinashTanwar01/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0045-jump-game-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/AvinashTanwar01/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Array
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->

@@ -45,8 +45,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0045-jump-game-ii) |
+| [1306-jump-game-iii](https://github.com/AvinashTanwar01/LeetCode/tree/master/1306-jump-game-iii) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0045-jump-game-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/AvinashTanwar01/LeetCode/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/AvinashTanwar01/LeetCode/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->

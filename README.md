@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/AvinashTanwar01/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/AvinashTanwar01/LeetCode/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/AvinashTanwar01/LeetCode/tree/master/0832-flipping-an-image) |
 | [3597-partition-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/3597-partition-string) |
 ## Dynamic Programming
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0045-jump-game-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/AvinashTanwar01/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/AvinashTanwar01/LeetCode/tree/master/0832-flipping-an-image) |
 | [1306-jump-game-iii](https://github.com/AvinashTanwar01/LeetCode/tree/master/1306-jump-game-iii) |
 ## Greedy
 |  |
@@ -64,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/AvinashTanwar01/LeetCode/tree/master/1306-jump-game-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/AvinashTanwar01/LeetCode/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/AvinashTanwar01/LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->

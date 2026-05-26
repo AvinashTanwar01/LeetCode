@@ -5,12 +5,22 @@ class Solution {
         for (char ch : text.toCharArray()) {
             count[ch - 'a']++;
         }
-        return Math.min(
-                Math.min(count['b' - 'a'], count['a' - 'a']),
-                Math.min(
-                    Math.min(count['l' - 'a'] / 2, count['o' - 'a'] / 2),
-                    count['n' - 'a']
-                )
-        );  
+        int cnt=0;
+        while(
+            count['b'-'a']>=1&&
+            count['a'-'a']>=1&&
+            count['l'-'a']>=2&&
+            count['o'-'a']>=2&&
+            count['n'-'a']>=1
+        ){
+            count['b'-'a']--;
+            count['a'-'a']--;
+            count['l'-'a']-=2;
+            count['o'-'a']-=2;
+            count['n'-'a']--;
+
+            cnt++;
+        }
+        return cnt;
     }
 }

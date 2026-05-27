@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/AvinashTanwar01/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0929-unique-email-addresses](https://github.com/AvinashTanwar01/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/AvinashTanwar01/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3597-partition-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/3597-partition-string) |
 ## Two Pointers
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0929-unique-email-addresses](https://github.com/AvinashTanwar01/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/AvinashTanwar01/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3597-partition-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/3597-partition-string) |
 ## Trie
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0045-jump-game-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/AvinashTanwar01/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/AvinashTanwar01/LeetCode/tree/master/0832-flipping-an-image) |
+| [0929-unique-email-addresses](https://github.com/AvinashTanwar01/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1306-jump-game-iii](https://github.com/AvinashTanwar01/LeetCode/tree/master/1306-jump-game-iii) |
 ## Greedy
 |  |

@@ -4,16 +4,10 @@ class Solution {
         for(int a:arr){
             map.put(a,map.getOrDefault(a,0)+1);
         } 
-        Boolean found=true;
-        List<Integer> unique = new ArrayList<>();
+        HashSet<Integer> unique = new HashSet<>();
         for(int a:map.values()){
-            if(unique.contains(a)){
-                found=false;
-                break;
-            }
-            unique.add(a);
+            if(!unique.add(a)) return false;
         }
-
-        return found;
+        return true;
     }
 }

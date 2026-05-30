@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/AvinashTanwar01/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/AvinashTanwar01/LeetCode/tree/master/0022-generate-parentheses) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AvinashTanwar01/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/AvinashTanwar01/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/AvinashTanwar01/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/AvinashTanwar01/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0929-unique-email-addresses](https://github.com/AvinashTanwar01/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/AvinashTanwar01/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/AvinashTanwar01/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+## Math
+|  |
+| ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/AvinashTanwar01/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 <!---LeetCode Topics End-->

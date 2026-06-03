@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0045-jump-game-ii) |
+| [0088-merge-sorted-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0821-shortest-distance-to-a-character](https://github.com/AvinashTanwar01/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/AvinashTanwar01/LeetCode/tree/master/0832-flipping-an-image) |
 | [0929-unique-email-addresses](https://github.com/AvinashTanwar01/LeetCode/tree/master/0929-unique-email-addresses) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/AvinashTanwar01/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/AvinashTanwar01/LeetCode/tree/master/0168-excel-sheet-column-title) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

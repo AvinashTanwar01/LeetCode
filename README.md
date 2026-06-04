@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/AvinashTanwar01/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/AvinashTanwar01/LeetCode/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/AvinashTanwar01/LeetCode/tree/master/0072-edit-distance) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AvinashTanwar01/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/AvinashTanwar01/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/0344-reverse-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AvinashTanwar01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0045-jump-game-ii) |
+| [0072-edit-distance](https://github.com/AvinashTanwar01/LeetCode/tree/master/0072-edit-distance) |
 ## Backtracking
 |  |
 | ------- |

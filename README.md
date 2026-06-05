@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AvinashTanwar01/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1370-increasing-decreasing-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1370-increasing-decreasing-string) |
 | [2390-removing-stars-from-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2490-circular-sentence](https://github.com/AvinashTanwar01/LeetCode/tree/master/2490-circular-sentence) |
 | [3597-partition-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/3597-partition-string) |
 ## Two Pointers
 |  |

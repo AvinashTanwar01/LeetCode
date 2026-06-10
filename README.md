@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/AvinashTanwar01/LeetCode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/AvinashTanwar01/LeetCode/tree/master/0832-flipping-an-image) |
 | [2390-removing-stars-from-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3597-partition-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/3597-partition-string) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0506-relative-ranks](https://github.com/AvinashTanwar01/LeetCode/tree/master/0506-relative-ranks) |
+| [0682-baseball-game](https://github.com/AvinashTanwar01/LeetCode/tree/master/0682-baseball-game) |
 | [0804-unique-morse-code-words](https://github.com/AvinashTanwar01/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/AvinashTanwar01/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/AvinashTanwar01/LeetCode/tree/master/0832-flipping-an-image) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/AvinashTanwar01/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Math

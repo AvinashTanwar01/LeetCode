@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/AvinashTanwar01/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/AvinashTanwar01/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/AvinashTanwar01/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AvinashTanwar01/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3597-partition-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/3597-partition-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AvinashTanwar01/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1306-jump-game-iii](https://github.com/AvinashTanwar01/LeetCode/tree/master/1306-jump-game-iii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AvinashTanwar01/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/1408-string-matching-in-an-array) |
 ## Greedy
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0506-relative-ranks](https://github.com/AvinashTanwar01/LeetCode/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AvinashTanwar01/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/AvinashTanwar01/LeetCode/tree/master/0724-find-pivot-index) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AvinashTanwar01/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

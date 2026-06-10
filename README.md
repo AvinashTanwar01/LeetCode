@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0506-relative-ranks](https://github.com/AvinashTanwar01/LeetCode/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/AvinashTanwar01/LeetCode/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/AvinashTanwar01/LeetCode/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/AvinashTanwar01/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/AvinashTanwar01/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/AvinashTanwar01/LeetCode/tree/master/0832-flipping-an-image) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/AvinashTanwar01/LeetCode/tree/master/0506-relative-ranks) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/AvinashTanwar01/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

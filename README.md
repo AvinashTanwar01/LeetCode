@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1370-increasing-decreasing-string) |
 | [1408-string-matching-in-an-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2490-circular-sentence](https://github.com/AvinashTanwar01/LeetCode/tree/master/2490-circular-sentence) |
 | [3597-partition-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/3597-partition-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/AvinashTanwar01/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [3597-partition-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/3597-partition-string) |
 ## Trie
 |  |

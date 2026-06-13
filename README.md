@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1370-increasing-decreasing-string) |
 | [1408-string-matching-in-an-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1496-path-crossing](https://github.com/AvinashTanwar01/LeetCode/tree/master/1496-path-crossing) |
+| [1544-make-the-string-great](https://github.com/AvinashTanwar01/LeetCode/tree/master/1544-make-the-string-great) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/AvinashTanwar01/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/AvinashTanwar01/LeetCode/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |

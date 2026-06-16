@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2390-removing-stars-from-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2490-circular-sentence](https://github.com/AvinashTanwar01/LeetCode/tree/master/2490-circular-sentence) |
+| [2678-number-of-senior-citizens](https://github.com/AvinashTanwar01/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3597-partition-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/3597-partition-string) |
 ## Two Pointers
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/AvinashTanwar01/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AvinashTanwar01/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2678-number-of-senior-citizens](https://github.com/AvinashTanwar01/LeetCode/tree/master/2678-number-of-senior-citizens) |
 ## Greedy
 |  |
 | ------- |

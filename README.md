@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AvinashTanwar01/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1496-path-crossing](https://github.com/AvinashTanwar01/LeetCode/tree/master/1496-path-crossing) |
 | [1544-make-the-string-great](https://github.com/AvinashTanwar01/LeetCode/tree/master/1544-make-the-string-great) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/AvinashTanwar01/LeetCode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AvinashTanwar01/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |

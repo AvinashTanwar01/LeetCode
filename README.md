@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/AvinashTanwar01/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2390-removing-stars-from-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2437-number-of-valid-clock-times](https://github.com/AvinashTanwar01/LeetCode/tree/master/2437-number-of-valid-clock-times) |
 | [2490-circular-sentence](https://github.com/AvinashTanwar01/LeetCode/tree/master/2490-circular-sentence) |
 | [2678-number-of-senior-citizens](https://github.com/AvinashTanwar01/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3597-partition-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/3597-partition-string) |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AvinashTanwar01/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [2437-number-of-valid-clock-times](https://github.com/AvinashTanwar01/LeetCode/tree/master/2437-number-of-valid-clock-times) |
 <!---LeetCode Topics End-->

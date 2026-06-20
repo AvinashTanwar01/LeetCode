@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/AvinashTanwar01/LeetCode/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/AvinashTanwar01/LeetCode/tree/master/1556-thousand-separator) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/AvinashTanwar01/LeetCode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1592-rearrange-spaces-between-words](https://github.com/AvinashTanwar01/LeetCode/tree/master/1592-rearrange-spaces-between-words) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AvinashTanwar01/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |

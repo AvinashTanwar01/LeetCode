@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-thousand-separator](https://github.com/AvinashTanwar01/LeetCode/tree/master/1556-thousand-separator) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/AvinashTanwar01/LeetCode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/AvinashTanwar01/LeetCode/tree/master/1592-rearrange-spaces-between-words) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/AvinashTanwar01/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AvinashTanwar01/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1496-path-crossing](https://github.com/AvinashTanwar01/LeetCode/tree/master/1496-path-crossing) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/AvinashTanwar01/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AvinashTanwar01/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/AvinashTanwar01/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |

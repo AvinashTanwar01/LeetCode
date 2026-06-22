@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AvinashTanwar01/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1496-path-crossing](https://github.com/AvinashTanwar01/LeetCode/tree/master/1496-path-crossing) |
+| [1540-can-convert-string-in-k-moves](https://github.com/AvinashTanwar01/LeetCode/tree/master/1540-can-convert-string-in-k-moves) |
 | [1544-make-the-string-great](https://github.com/AvinashTanwar01/LeetCode/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/AvinashTanwar01/LeetCode/tree/master/1556-thousand-separator) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/AvinashTanwar01/LeetCode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1496-path-crossing](https://github.com/AvinashTanwar01/LeetCode/tree/master/1496-path-crossing) |
+| [1540-can-convert-string-in-k-moves](https://github.com/AvinashTanwar01/LeetCode/tree/master/1540-can-convert-string-in-k-moves) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/AvinashTanwar01/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AvinashTanwar01/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/AvinashTanwar01/LeetCode/tree/master/1748-sum-of-unique-elements) |

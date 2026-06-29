@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AvinashTanwar01/LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/AvinashTanwar01/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AvinashTanwar01/LeetCode/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/AvinashTanwar01/LeetCode/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0506-relative-ranks](https://github.com/AvinashTanwar01/LeetCode/tree/master/0506-relative-ranks) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AvinashTanwar01/LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0506-relative-ranks](https://github.com/AvinashTanwar01/LeetCode/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/AvinashTanwar01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
